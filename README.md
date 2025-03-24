@@ -1,4 +1,5 @@
 # e2e_chat
+```bash
 e2e-encrypted-chat/
 ├── backend/
 │   ├── app/
@@ -40,3 +41,4 @@ e2e-encrypted-chat/
 ├── docker-compose.yml           # Multi-container setup
 ├── .gitignore                   # Git ignore file
 └── README.md                    # Project documentation
+```
